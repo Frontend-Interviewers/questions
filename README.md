@@ -22,3 +22,90 @@
 |-|-|-|-|-|
 | 재연 | 동현 | 서연 | 현수 | 지승 |
 
+## 🎉 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/junghyeonsu"
+        ><img
+          src="https://avatars.githubusercontent.com/junghyeonsu"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>junghyeonsu</b></sub></a
+      ><br />
+      </td>
+  <td align="center">
+      <a href="https://github.com/jiseung-kang"
+        ><img
+          src="https://avatars.githubusercontent.com/jiseung-kang"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>jiseung-kang</b></sub></a
+      ><br />
+    </td>
+  <td align="center">
+      <a href="https://github.com/jaenny"
+        ><img
+          src="https://avatars.githubusercontent.com/jaenny"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>jaenny</b></sub></a
+      ><br />
+    </td>
+  <td align="center">
+      <a href="https://github.com/aeong98"
+        ><img
+          src="https://avatars.githubusercontent.com/aeong98"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>aeong98</b></sub></a
+      ><br />
+    </td>
+  <td align="center">
+      <a href="https://github.com/ww8007"
+        ><img
+          src="https://avatars.githubusercontent.com/ww8007"
+          width="100px;"
+          alt=""
+        /><br /><sub><b>ww8007</b></sub></a
+      ><br />
+    </td>
+  </tr>
+</table>
+
+### 질문 자료 템플릿
+
+<details>
+<summary>템플릿 보기</summary>
+
+<!-- 템플릿 시작 (아래서부터 복사) -->
+
+# 주제
+
+### 🤔 질문 1번 입니다.
+
+<details>
+<summary>자세히 보기</summary>
+
+> 질문에 대한 한 줄 요약
+
+질문에 대한 답변입니다.
+
+</details>
+
+## 팀원들 정리 내용들
+
+| 이름 | 링크 |
+|-|-|
+| 현수 | - |
+| 지승 | - |
+| 서연 | - |
+| 동현 | - |
+| 재연 | - |
+
+[맨 위로 이동](#http)
+
+<!-- 템플릿 끝 (위에 까지 복사) -->
+
+</details>

@@ -87,8 +87,7 @@
 
 <details>
 <summary>자세히 보기</summary>
-
-> 질문에 대한 한 줄 요약
+<br>
 
 질문에 대한 답변입니다.
 

@@ -1,6 +1,6 @@
 # HTTP
 
-### 🤔 HTTP를 간략하게 설명해주세요.
+## 🤔 HTTP를 간략하게 설명해주세요.
 
 <details>
 <summary>자세히 보기</summary>
@@ -13,7 +13,7 @@
 
 </details>
 
-### 🤔 HTTP는 stateless한 프로토콜이라고 하는데 그 의미가 무엇일까요?
+## 🤔 HTTP는 stateless한 프로토콜이라고 하는데 그 의미가 무엇일까요?
 
 <details>
 <summary>자세히 보기</summary>
@@ -26,7 +26,7 @@
 
 </details>
 
-### 🤔 HTTP는 stateless해서 상태값을 사용할 수 없는데 그 대안으로 무엇을 사용할 수 있을까요?
+## 🤔 HTTP는 stateless해서 상태값을 사용할 수 없는데 그 대안으로 무엇을 사용할 수 있을까요?
 
 <details>
 <summary>자세히 보기</summary>
@@ -35,12 +35,12 @@ HTTP 스테이트리스의 단점을 보완하기 위해서 쿠키(cookie) 시�
 
 </details>
 
-### 🤔 HTTP GET 메서드와 POST 메서드의 차이점이 무엇일까요?
+## 🤔 HTTP GET 메서드와 POST 메서드의 차이점이 무엇일까요?
 
 <details>
 <summary>자세히 보기</summary>
 
-#### GET
+### GET
 
 - GET은 불필요한 요청을 제한하기 위해 요청이 캐시될 수 있습니다.
 - 파라미터에 내용이 노출되기 때문에 민감한 데이터를 다룰 때 GET 요청을 사용해서는 안 됩니다.
@@ -50,7 +50,7 @@ HTTP 스테이트리스의 단점을 보완하기 위해서 쿠키(cookie) 시�
 - Get 요청은 성공시, 200(Ok) HTTP 응답 코드를 XML, JSON뿐만 아니라 여러 데이터(html, txt등..), 여러 형식의 데이터와 함께 반환합니다.
 - GET 요청은 **idempotent**합니다.
 
-#### POST
+### POST
 
 - POST 요청은 캐시되지 않습니다.
 - POST 요청은 브라우저 기록에 남아 있지 않습니다.
@@ -80,7 +80,7 @@ HTTP 스테이트리스의 단점을 보완하기 위해서 쿠키(cookie) 시�
 
 </details>
 
-### 🤔 HTTP에서 비연결성이 무엇일까요?
+## 🤔 HTTP에서 비연결성이 무엇일까요?
 
 <details>
 <summary>자세히 보기</summary>
@@ -91,7 +91,7 @@ HTTP가 TCP의 3-way handshake통해 **세션을 열고, 1번의 세션 안에�
 
 </details>
 
-### 🤔 SOP(Same-Origin-Policy)에 대해 설명해주세요.
+## 🤔 SOP(Same-Origin-Policy)에 대해 설명해주세요.
 
 <details>
 <summary>자세히 보기</summary>
@@ -104,7 +104,7 @@ SOP는 어떤 출처에서 불러온 문서나 스크립트가 다른 출처에
 
 </details>
 
-### 🤔 CORS (Cross-Origin Resource Sharing)에 대해 설명해주세요.
+## 🤔 CORS (Cross-Origin Resource Sharing)에 대해 설명해주세요.
 
 <details>
 <summary>자세히 보기</summary>
@@ -117,7 +117,7 @@ Cross-Origin Resource Sharing 표준은 웹 브라우저가 사용하는 정보�
 
 </details>
 
-### 🤔 HTTP와 HTTPS에 대해 설명해주세요.
+## 🤔 HTTP와 HTTPS에 대해 설명해주세요.
 
 <details>
 <summary>자세히 보기</summary>
@@ -132,7 +132,7 @@ HTTP는 평문 통신이므로 도청이 가능하며(TCP/IP), 통신 상대를 
 
 </details>
 
-### 🤔 쿠키와 세션에 대해 설명해주세요.
+## 🤔 쿠키와 세션에 대해 설명해주세요.
 
 <details>
 <summary>자세히 보기</summary>
@@ -151,7 +151,7 @@ HTTP 프로토콜은 모든 요청 간 의존관계가 없습니다. 즉, 현재
 
 </details>
 
-### 🤔 OSI 7 계층에 대해 설명해주세요.
+## 🤔 OSI 7 계층에 대해 설명해주세요.
 
 <details>
 <summary>자세히 보기</summary>
@@ -178,7 +178,7 @@ OSI 7 계층은 패킷 기반 통신으로서 각 계층의 순서와 담당하�
 
 </details>
 
-### 🤔 TCP, UDP 방식의 차이점을 설명해주세요.
+## 🤔 TCP, UDP 방식의 차이점을 설명해주세요.
 
 <details>
 <summary>자세히 보기</summary>
@@ -189,7 +189,7 @@ OSI 7 계층은 패킷 기반 통신으로서 각 계층의 순서와 담당하�
 
 </details>
 
-### 🤔 TCP의 3 Way-HandShake 와 4 Way-HandShake 에 대해 할고 있나요 ?
+## 🤔 TCP의 3 Way-HandShake 와 4 Way-HandShake 에 대해 할고 있나요 ?
 
 <details>
 <summary>자세히 보기</summary>
@@ -214,7 +214,7 @@ TCP는 연결형 서비스 자원 프로토콜로써, 호스트 간 신뢰성 �
 
 </details>
 
-### 🤔 프록시 서버가 필요한 이유에 대해 설명해주세요.
+## 🤔 프록시 서버가 필요한 이유에 대해 설명해주세요.
 
 <details>
 <summary>자세히 보기</summary>
@@ -240,7 +240,7 @@ TCP는 연결형 서비스 자원 프로토콜로써, 호스트 간 신뢰성 �
 
 </details>
 
-### 🤔 Preflight Request 에 대해 설명해주세요.
+## 🤔 Preflight Request 에 대해 설명해주세요.
 
 <details>
 <summary>자세히 보기</summary>
@@ -256,7 +256,7 @@ TCP는 연결형 서비스 자원 프로토콜로써, 호스트 간 신뢰성 �
 
 </details>
 
-### 🤔 URL, URI, URN의 차이점이 뭘까요?
+## 🤔 URL, URI, URN의 차이점이 뭘까요?
 
 <details>
 <summary>자세히 보기</summary>
@@ -267,7 +267,7 @@ TCP는 연결형 서비스 자원 프로토콜로써, 호스트 간 신뢰성 �
 
 </details>
 
-### 🤔 HTTP 버전 1.0, 1.1, 2.0의 차이를 설명해 주세요.
+## 🤔 HTTP 버전 1.0, 1.1, 2.0의 차이를 설명해 주세요.
 
 <details>
 <summary>자세히 보기</summary>

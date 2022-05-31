@@ -13,7 +13,7 @@
 | 2    | HTML 시멘틱 태그             | 2022/04/30 | 재연   | [링크](/2.%20HTML%20Semantic%20Tag//README.md) |
 | 3    | Web Accessibility: 웹 접근성 | 2022/05/07 | 동현   | [링크](/3.%20Web%20Accessibility/README.md#)   |
 | 4    | SEO                          | 2022/05/14 | 서연   | [링크](/4.%20SEO/README.md#)                   |
-| 5    | -                            | -          | 현수   | [링크](/#)                                     |
+| 5    | CSS Optimization | 2022/05/24  | 현수   | [링크](/5.%20CSS%20Optimization/README.md)                                     |
 | 6    | -                            | -          | 지승   | [링크](/#)                                     |
 
 ## 📊 발표 순서
